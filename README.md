@@ -1,23 +1,12 @@
-<div align="center">
+<div align="center"> <img src="cyberlogo.png" alt="CyberDefenders Logo" width="450"> <br> <a href="https://github.com/"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2F6BFF&center=true&vCenter=true&width=640&lines=Blue+Team+%7C+Digital+Forensics;Network+Forensics+%7C+Threat+Intelligence;Defend+Smarter%2C+Not+Harder!" alt="Typing SVG"> </a> <br>
 
-<img src="banner.svg" alt="Blue Team Write-Ups" width="100%">
+Show Image Show Image Show Image Show Image
 
-<br>
+</div> <br> <div align="center">
 
-<img src="cyberlogo.png" alt="CyberDefenders Logo" width="420">
+Repositori ini berisi kumpulan write-up penyelesaian lab Blue Team dan Digital Forensics dari CyberDefenders, lengkap dengan analisis dan langkah penyelesaiannya. Seluruh artikel lengkap dipublikasikan di Medium.
 
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=22&pause=1400&color=D4AF37&center=true&vCenter=true&width=720&lines=Blue+Team+%7C+Digital+Forensics;Network+Forensics+%7C+Threat+Intelligence;Follow+the+packets.+Find+the+story.;Defend+Smarter%2C+Not+Harder!" alt="Typing SVG">
-
-<br><br>
-
-![Platform](https://img.shields.io/badge/Platform-CyberDefenders-D4AF37?style=for-the-badge&labelColor=0a0f1f)
-![Focus](https://img.shields.io/badge/Focus-Blue%20Team-D4AF37?style=for-the-badge&labelColor=0a0f1f)
-![Write-ups](https://img.shields.io/badge/Write--ups-2-D4AF37?style=for-the-badge&labelColor=0a0f1f)
-![Language](https://img.shields.io/badge/Language-ID%20%7C%20EN-D4AF37?style=for-the-badge&labelColor=0a0f1f)
-
-</div>
+<br> <a href="https://medium.com/@prabaswaradaffa2"> <img src="https://img.shields.io/badge/📖%20Baca%20Write--Up%20Lengkap%20di%20Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Baca di Medium"> </a> </div> <br>
 
 <br>
 
