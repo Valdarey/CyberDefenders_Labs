@@ -1,10 +1,4 @@
-<div align="center">
-
-<img src="https://URL-LOGO-CYBERDEFENDERS/logo.png" alt="CyberDefenders Logo" width="300">
-
-</div>
-
-<div align="center">
+<div align="center"> <img src="cyberlogo.png" alt="CyberDefenders Logo" width="450"> </div> <div align="center">
 
 Repositori ini berisi kumpulan write-up penyelesaian lab Blue Team dan Digital Forensics dari CyberDefenders, lengkap dengan analisis dan langkah penyelesaiannya. Seluruh artikel lengkap dipublikasikan di Medium.
 
