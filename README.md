@@ -33,6 +33,7 @@ Repositori ini berisi kumpulan write-up penyelesaian lab **Blue Team** dan **Dig
 
 <br>
 
+---
 
 <div align="center">
 
@@ -51,25 +52,12 @@ Repositori ini berisi kumpulan write-up penyelesaian lab **Blue Team** dan **Dig
 
 ---
 
-## 🧰 Tools & Skills
-
 <div align="center">
 
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Network Forensics](https://img.shields.io/badge/Network%20Forensics-0b1f3a?style=for-the-badge)
-![Web Attack Analysis](https://img.shields.io/badge/Web%20Attack%20Analysis-b91c1c?style=for-the-badge)
-![Incident Investigation](https://img.shields.io/badge/Incident%20Investigation-6d28d9?style=for-the-badge)
-
-</div>
-
----
-
-<div align="center">
-
-## 🤝 Connect with Me
+## ✦ Connect with Me ✦
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/daffarevalda/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/revaldaharyadaffaprabaswara/)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@prabaswaradaffa2)
 
 <br>
