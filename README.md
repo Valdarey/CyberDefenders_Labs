@@ -12,12 +12,11 @@ Repositori ini berisi kumpulan write-up penyelesaian lab Blue Team dan Digital F
 
 ---
 
-| Lab Name | Category |
-|----------|----------|
-| [WebStrike Lab](https://medium.com/@USERNAME/LINK-WEBSTRIKE) | Network Forensics |
-| [RetailBreach Lab](https://medium.com/@USERNAME/LINK-RETAILBREACH) | Network Forensics |
-| [JetBrains Lab](https://medium.com/@USERNAME/LINK-JETBRAINS) | Threat Intelligence |
-| [SpottedInTheWild Lab](https://medium.com/@USERNAME/LINK-SPOTTEDINTHEWILD) | Threat Intelligence |
+| Lab Name | Category | Link |
+|----------|----------|------|
+| [WebStrike Lab](https://medium.com/@USERNAME/LINK-WEBSTRIKE) | Network Forensics | [Read Write-Up →]([https://medium.com/@USERNAME/LINK-WEBSTRIKE](https://medium.com/@prabaswaradaffa2/webstrike-cyberdefenders-labs-5796e6784fd1)) |
+| [RetailBreach Lab](https://medium.com/@USERNAME/LINK-RETAILBREACH) | Network Forensics | [Read Write-Up →]([https://medium.com/@USERNAME/LINK-RETAILBREACH](https://medium.com/@prabaswaradaffa2/retailbreach-cyberdefenders-labs-287255a9315c)) |
+
 
 ---
 
