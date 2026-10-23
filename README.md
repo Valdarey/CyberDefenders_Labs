@@ -9,11 +9,6 @@ Repositori ini berisi kumpulan write-up penyelesaian lab Blue Team dan Digital F
 
 <br>
 
-
-<a href="https://medium.com/@prabaswaradaffa2">
-  <img src="https://img.shields.io/badge/📖%20Baca%20Write--Up%20Lengkap%20di%20Medium-D4AF37?style=for-the-badge&logo=medium&logoColor=0a0f1f" alt="Baca di Medium" height="44">
-</a>
-
 </div>
 
 <br>
