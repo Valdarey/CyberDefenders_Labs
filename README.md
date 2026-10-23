@@ -1,6 +1,5 @@
 <div align="center"> <img src="cyberlogo.png" alt="CyberDefenders Logo" width="450"> <br> <a href="https://github.com/"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=2F6BFF&center=true&vCenter=true&width=640&lines=Blue+Team+%7C+Digital+Forensics;Network+Forensics+%7C+Threat+Intelligence;Defend+Smarter%2C+Not+Harder!" alt="Typing SVG"> </a> <br>
 
-Show Image Show Image Show Image Show Image
 
 </div> <br> <div align="center">
 
@@ -10,11 +9,6 @@ Repositori ini berisi kumpulan write-up penyelesaian lab Blue Team dan Digital F
 
 <br>
 
-<div align="center">
-
-Repositori ini berisi kumpulan write-up penyelesaian lab **Blue Team** dan **Digital Forensics** dari CyberDefenders, lengkap dengan analisis dan langkah penyelesaiannya. Seluruh artikel lengkap dipublikasikan di Medium.
-
-<br>
 
 <a href="https://medium.com/@prabaswaradaffa2">
   <img src="https://img.shields.io/badge/📖%20Baca%20Write--Up%20Lengkap%20di%20Medium-D4AF37?style=for-the-badge&logo=medium&logoColor=0a0f1f" alt="Baca di Medium" height="44">
@@ -24,7 +18,6 @@ Repositori ini berisi kumpulan write-up penyelesaian lab **Blue Team** dan **Dig
 
 <br>
 
-<img src="divider.svg" width="100%" alt="divider">
 
 <div align="center">
 
@@ -35,13 +28,12 @@ Repositori ini berisi kumpulan write-up penyelesaian lab **Blue Team** dan **Dig
 | 🕸️ [**WebStrike Lab**](https://medium.com/@prabaswaradaffa2/webstrike-cyberdefenders-labs-5796e6784fd1) | ![Network Forensics](https://img.shields.io/badge/Network%20Forensics-14224a?style=flat-square) | [![Read](https://img.shields.io/badge/Read%20Write--Up%20→-D4AF37?style=flat-square&logo=medium&logoColor=0a0f1f)](https://medium.com/@prabaswaradaffa2/webstrike-cyberdefenders-labs-5796e6784fd1) |
 | 🛒 [**RetailBreach Lab**](https://medium.com/@prabaswaradaffa2/retailbreach-cyberdefenders-labs-287255a9315c) | ![Network Forensics](https://img.shields.io/badge/Network%20Forensics-14224a?style=flat-square) | [![Read](https://img.shields.io/badge/Read%20Write--Up%20→-D4AF37?style=flat-square&logo=medium&logoColor=0a0f1f)](https://medium.com/@prabaswaradaffa2/retailbreach-cyberdefenders-labs-287255a9315c) |
 
-*🚧 Write-up baru akan terus ditambahkan. Stay tuned!*
+*Write-up baru akan terus ditambahkan. Stay tuned!*
 
 </div>
 
 <br>
 
-<img src="divider.svg" width="100%" alt="divider">
 
 <div align="center">
 
@@ -56,7 +48,6 @@ Repositori ini berisi kumpulan write-up penyelesaian lab **Blue Team** dan **Dig
 
 <br>
 
-<img src="divider.svg" width="100%" alt="divider">
 
 <div align="center">
 
