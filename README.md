@@ -41,8 +41,8 @@ Repositori ini berisi kumpulan write-up penyelesaian lab **Blue Team** dan **Dig
 
 | Lab Name | Category | Link |
 |:---------|:--------:|:----:|
-| [**WebStrike Lab**](https://medium.com/@prabaswaradaffa2/webstrike-cyberdefenders-labs-5796e6784fd1) | ![Network Forensics](https://img.shields.io/badge/Network%20Forensics-1f6feb?style=flat-square) | [![Read](https://img.shields.io/badge/Read%20Write--Up%20→-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@prabaswaradaffa2/webstrike-cyberdefenders-labs-5796e6784fd1) |
-| [**RetailBreach Lab**](https://medium.com/@prabaswaradaffa2/retailbreach-cyberdefenders-labs-287255a9315c) | ![Network Forensics](https://img.shields.io/badge/Network%20Forensics-1f6feb?style=flat-square) | [![Read](https://img.shields.io/badge/Read%20Write--Up%20→-000000?style=flat-square&logo=high&logoColor=white)](https://medium.com/@prabaswaradaffa2/retailbreach-cyberdefenders-labs-287255a9315c) |
+| [**WebStrike Lab**](https://medium.com/@prabaswaradaffa2/webstrike-cyberdefenders-labs-5796e6784fd1) | ![Network Forensics](https://img.shields.io/badge/Network%20Forensics-1f6feb?style=flat-square) | [![Read](https://img.shields.io/badge/Read%20Write--Up%20→-000000?style=flat-square&logo=&logoColor=white)](https://medium.com/@prabaswaradaffa2/webstrike-cyberdefenders-labs-5796e6784fd1) |
+| [**RetailBreach Lab**](https://medium.com/@prabaswaradaffa2/retailbreach-cyberdefenders-labs-287255a9315c) | ![Network Forensics](https://img.shields.io/badge/Network%20Forensics-1f6feb?style=flat-square) | [![Read](https://img.shields.io/badge/Read%20Write--Up%20→-000000?style=flat-square&logo=&logoColor=white)](https://medium.com/@prabaswaradaffa2/retailbreach-cyberdefenders-labs-287255a9315c) |
 
 <div align="center">
 
