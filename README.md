@@ -46,7 +46,7 @@ Repositori ini berisi kumpulan write-up penyelesaian lab **Blue Team** dan **Dig
 
 <div align="center">
 
-*Write-up baru akan terus ditambahkan, Update sesuai mood admin*
+*Note: Mengingat admin sedang sibuk kuliah dan kerja serabut, Update ketika admin lagi nggangur*
 
 
 </div>
