@@ -39,8 +39,8 @@ Repositori ini berisi kumpulan write-up penyelesaian lab **Blue Team** dan **Dig
 
 ## ✦ Daftar Write-Up ✦
 
-| Lab Name | Category | Link |
-|:---------|:--------:|:----:|
+| Lab Name | Category | 
+|:---------|:--------:|
 | [**WebStrike**](https://medium.com/@prabaswaradaffa2/webstrike-cyberdefenders-labs-5796e6784fd1) | ![Network Forensics](https://img.shields.io/badge/Network%20Forensics-1f6feb?style=flat-square) | 
 | [**RetailBreach**](https://medium.com/@prabaswaradaffa2/retailbreach-cyberdefenders-labs-287255a9315c) | ![Network Forensics](https://img.shields.io/badge/Network%20Forensics-1f6feb?style=flat-square) | 
 | [**GrapThePhisher**](https://medium.com/@prabaswaradaffa2/grapthephisher-how-a-phishing-kit-steals-seed-phrases-via-telegram-cyberdefenders-labs-48432d407053?sharedUserId=prabaswaradaffa2) | ![Network Forensics](https://img.shields.io/badge/Threat%20Intelligence-1f6feb?style=flat-square) | 
