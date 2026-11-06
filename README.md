@@ -13,7 +13,7 @@
 ![Platform](https://img.shields.io/badge/Platform-CyberDefenders-1f3a8a?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/Focus-Blue%20Team-2f6bff?style=for-the-badge)
 ![Write-ups](https://img.shields.io/badge/Write--ups-3-2ea043?style=for-the-badge)
-![Top Skills](https://img.shields.io/badge/Network%20Forensics%20%7C%20EN-orange?style=for-the-badge)
+![Top Skills](https://img.shields.io/badge/Top%20SkillsNetwork%20Forensics%20%7C%20EN-orange?style=for-the-badge)
 
 </div>
 
