@@ -12,7 +12,7 @@
 
 ![Platform](https://img.shields.io/badge/Platform-CyberDefenders-1f3a8a?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/Focus-Blue%20Team-2f6bff?style=for-the-badge)
-![Write-ups](https://img.shields.io/badge/Write--ups-2-2ea043?style=for-the-badge)
+![Write-ups](https://img.shields.io/badge/Write--ups-3-2ea043?style=for-the-badge)
 ![Language](https://img.shields.io/badge/Language-ID%20%7C%20EN-orange?style=for-the-badge)
 
 </div>
