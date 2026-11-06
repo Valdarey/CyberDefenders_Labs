@@ -13,7 +13,6 @@
 ![Platform](https://img.shields.io/badge/Platform-CyberDefenders-1f3a8a?style=for-the-badge)
 ![Focus](https://img.shields.io/badge/Focus-Blue%20Team-2f6bff?style=for-the-badge)
 ![Write-ups](https://img.shields.io/badge/Write--ups-3-2ea043?style=for-the-badge)
-![Top Skills](https://img.shields.io/badge/Top%20Skills-Network%20Forensics%20%7C%20Threat%20Intelligence-red?style=for-the-badge)
 
 </div>
 
@@ -43,7 +42,7 @@ Repositori ini berisi kumpulan write-up penyelesaian lab **Blue Team** dan **Dig
 |:---------|:--------:|
 | [**WebStrike**](https://medium.com/@prabaswaradaffa2/webstrike-cyberdefenders-labs-5796e6784fd1) | ![Network Forensics](https://img.shields.io/badge/Network%20Forensics-1f6feb?style=flat-square) | 
 | [**RetailBreach**](https://medium.com/@prabaswaradaffa2/retailbreach-cyberdefenders-labs-287255a9315c) | ![Network Forensics](https://img.shields.io/badge/Network%20Forensics-1f6feb?style=flat-square) | 
-| [**GrapThePhisher**](https://medium.com/@prabaswaradaffa2/grapthephisher-how-a-phishing-kit-steals-seed-phrases-via-telegram-cyberdefenders-labs-48432d407053?sharedUserId=prabaswaradaffa2) | ![Network Forensics](https://img.shields.io/badge/Threat%20Intelligence-1f6feb?style=flat-square) | 
+| [**GrapThePhisher**](https://medium.com/@prabaswaradaffa2/grapthephisher-how-a-phishing-kit-steals-seed-phrases-via-telegram-cyberdefenders-labs-48432d407053?sharedUserId=prabaswaradaffa2) | ![Network Forensics](https://img.shields.io/badge/Threat%20Intelligence-Ff0000?style=flat-square) | 
 
 <div align="center">
 
