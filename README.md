@@ -43,6 +43,7 @@ Repositori ini berisi kumpulan write-up penyelesaian lab **Blue Team** dan **Dig
 | [**WebStrike**](https://medium.com/@prabaswaradaffa2/webstrike-cyberdefenders-labs-5796e6784fd1) | ![Network Forensics](https://img.shields.io/badge/Network%20Forensics-1f6feb?style=flat-square) | 
 | [**RetailBreach**](https://medium.com/@prabaswaradaffa2/retailbreach-cyberdefenders-labs-287255a9315c) | ![Network Forensics](https://img.shields.io/badge/Network%20Forensics-1f6feb?style=flat-square) | 
 | [**GrapThePhisher**](https://medium.com/@prabaswaradaffa2/grapthephisher-how-a-phishing-kit-steals-seed-phrases-via-telegram-cyberdefenders-labs-48432d407053?sharedUserId=prabaswaradaffa2) | ![Network Forensics](https://img.shields.io/badge/Threat%20Intelligence-Ff0000?style=flat-square) | 
+| [**Qradar101**](https://medium.com/@prabaswaradaffa2/qradar101-investigating-an-intrusion-with-ibm-qradar-cyberdefenders-labs-a2a8c6662024?sharedUserId=prabaswaradaffa2) | ![Network Forensics](https://img.shields.io/badge/Threat%20Hunting-800080?style=flat-square) | 
 
 <div align="center">
 
